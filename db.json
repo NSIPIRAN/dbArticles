@@ -8,13 +8,13 @@
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nam laborum perferendis. Numquam, maiores qui nobis natus iusto dolor facere alias dicta voluptates ut quia libero facilis, delectus vitae soluta!",
       "images": [
         {
-          "image": "https://via.placeholder.com/600/771796?Text=Digital",
+          "image": "https://via.placeholder.com/300/771796?text=Digital",
           
-          "thumbnail": "https://via.placeholder.com/150/771796?Text=Digital"
+          "thumbnail": "https://via.placeholder.com/150/771796?text=Digital"
         },
         {
-          "image": "https://via.placeholder.com/600/92c952?Text=Digital",
-          "thumbnail": "https://via.placeholder.com/150/92c952?Text=Digital"
+          "image": "https://via.placeholder.com/300/92c952?text=Digital",
+          "thumbnail": "https://via.placeholder.com/150/92c952?text=Digital"
         }
       ],
       "quantity": 1,
@@ -28,16 +28,16 @@
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nam laborum perferendis. Numquam, maiores qui nobis natus iusto dolor facere alias dicta voluptates ut quia libero facilis, delectus vitae soluta!",
       "images": [
         {
-          "image": "https://via.placeholder.com/600/24f355?Text=Micro",
-          "thumbnail": "https://via.placeholder.com/150/24f355?Text=Micro"
+          "image": "https://via.placeholder.com/300/24f355?text=Micro",
+          "thumbnail": "https://via.placeholder.com/150/24f355?text=Micro"
         },
         {
-          "image": "https://via.placeholder.com/600/d32776?Text=Micro",
-          "thumbnail": "https://via.placeholder.com/150/d32776?Text=Micro"
+          "image": "https://via.placeholder.com/300/d32776?text=Micro",
+          "thumbnail": "https://via.placeholder.com/150/d32776?text=Micro"
         },
         {
-          "image": "https://via.placeholder.com/600/f66b97?Text=Micro",
-          "thumbnail": "https://via.placeholder.com/150/f66b97?Text=Micro"
+          "image": "https://via.placeholder.com/300/f66b97?text=Micro",
+          "thumbnail": "https://via.placeholder.com/150/f66b97?text=Micro"
         }
       ],
       "quantity": 1,
@@ -51,8 +51,8 @@
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nam laborum perferendis. Numquam, maiores qui nobis natus iusto dolor facere alias dicta voluptates ut quia libero facilis, delectus vitae soluta!",
       "images": [
         {
-          "image": "https://via.placeholder.com/600/56a8c?Text=Audifono",
-          "thumbnail": "https://via.placeholder.com/150/56a8c?Text=Audifono"
+          "image": "https://via.placeholder.com/300/56a8c?text=Audifono",
+          "thumbnail": "https://via.placeholder.com/150/56a8c?text=Audifono"
         }
       ],
       "quantity": 1,
@@ -67,12 +67,12 @@
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nam laborum perferendis. Numquam, maiores qui nobis natus iusto dolor facere alias dicta voluptates ut quia libero facilis, delectus vitae soluta!",
       "images": [
         {
-          "image": "https://via.placeholder.com/600/b0f7cc?Text=Led",
-          "thumbnail": "https://via.placeholder.com/150/b0f7cc?Text=Led"
+          "image": "https://via.placeholder.com/300/b0f7cc?text=Led",
+          "thumbnail": "https://via.placeholder.com/150/b0f7cc?text=Led"
         },
         {
-          "image": "https://via.placeholder.com/600/54176f?Text=Led",
-          "thumbnail": "https://via.placeholder.com/150/54176f?Text=Led"
+          "image": "https://via.placeholder.com/300/54176f?text=Led",
+          "thumbnail": "https://via.placeholder.com/150/54176f?text=Led"
         }
       ],
       "quantity": 1
